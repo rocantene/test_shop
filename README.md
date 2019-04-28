@@ -10,6 +10,7 @@
 * jQuery(3.3.1)
 * Gulp
 * Минификация файлов
+* Avocode
 * Иконки Font Awesome
 
 ### Валидация:
